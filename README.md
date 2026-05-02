@@ -4,18 +4,18 @@ Excel portfolio project focused on cleaning and analyzing a fleet equipment inve
 
 ## Dashboard Preview
 
-![Dashboard preview](assets/dashboard-preview.png)
+![Dashboard preview](dashboard-preview.png)
 
-![Department inventory ranking](assets/department-inventory-ranking.png)
+![Department inventory ranking](department-inventory-ranking.png)
 
-![Equipment class breakdown](assets/equipment-class-breakdown.png)
+![Equipment class breakdown](equipment-class-breakdown.png)
 
 ## Project Files
 
-- `workbooks/Montgomery_Fleet_Equipment_Inventory_Part1_Cleaned.xlsx`  
+- `Montgomery_Fleet_Equipment_Inventory_Part1_Cleaned.xlsx`  
   Cleaned inventory dataset with standardized department names, duplicate/blank-row cleanup, trimmed text values, and readable column widths.
 
-- `workbooks/Montgomery_Fleet_Equipment_Inventory_Part2_Analysis.xlsx`  
+- `Montgomery_Fleet_Equipment_Inventory_Part2_Analysis.xlsx`  
   Analysis workbook with formatted table, summary calculations, and pivot tables for equipment counts by department and equipment class.
 
 ## Skills Demonstrated
